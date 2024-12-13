@@ -1,0 +1,40 @@
+.cointainer{
+    background-color: rgb(198, 237, 24);
+    border: 5px solid black;
+    margin: 2px;
+    padding: 2px;
+    display: flex ;
+    height: 1200px;
+    flex-direction: row;
+    /* flex-wrap: wrap; */
+    justify-content:start;
+    align-items:start;
+    align-content: center;
+}
+.box{
+    /* height: 200px;
+    width: 200px; */
+    border: 2px solid brown;
+    margin: 2px;
+    padding: 2px;
+    justify-content: center;
+}
+
+#box1{
+background-color: antiquewhite;
+/* flex-shrink: 4; */
+/* flex-grow: 5; */
+/* flex-basis: 500px; */
+align-self: flex-start;
+}
+#box2{
+background-color: yellow;
+}
+#box3{
+background-color: blueviolet;
+
+}
+#box4{
+background-color: burlywood;
+
+}

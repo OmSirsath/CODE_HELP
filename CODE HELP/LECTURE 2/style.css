@@ -1,0 +1,27 @@
+P{
+    /* font-style: italic;*/
+    font-size: 20px; 
+
+    font-family: Cursive;
+    font-weight: 900 ;
+
+    line-height: 30px;
+    
+}
+
+#firstpara{
+    background-color: yellow;
+    color: brown;
+}
+#secondpara{
+    background-color: rgb(90, 17, 224);
+}
+#thirdpara{
+    background-color: rgb(32, 240, 94);
+}
+.firstClass{
+    background-color: #b90e56;
+}
+.secondpara{
+    background-color:   hsl(0, 87%, 56%);
+}
